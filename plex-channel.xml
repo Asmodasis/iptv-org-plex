@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.4UV.plex">4UV</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.5-Minute.Crafts.plex">5-Minute Crafts</channel>
+  <!--<channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.5-Minute.Crafts.plex">5-Minute Crafts</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.21.Jump.Street.plex">21 Jump Street</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.24.Hour.Free.Movies.plex">24 Hour Free Movies</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.80`s.Sitcom.Flashback.plex">80`s Sitcom Flashback</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.123GO!.plex">123GO!</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.A.Touch.of.Frost.plex">A Touch of Frost</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.A.Touch.of.Frost.plex">A Touch of Frost</channel>-->
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ACCDN.plex">ACCDN</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.AccuWeather.NOW.plex">AccuWeather NOW</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ACL.Cornhole.TV.plex">ACL Cornhole TV</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Action.Hollywood.Movies.plex">Action Hollywood Movies</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.AfroLandTV.plex">AfroLandTV</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.AKC.tv.plex">AKC.tv</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ALF.plex">ALF</channel>
+  <!--<channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ALF.plex">ALF</channel>-->
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Alien.Nation.by.DUST.plex">Alien Nation by DUST</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Aliwko.plex">Aliwko</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.All.Reality.WE.tv.plex">All Reality WE tv</channel>

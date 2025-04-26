@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",4UV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775e07dfed030008cb3f47/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263251-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9613835c-f568-4f54-a3c9-71d2371228af
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="Sports",ACCDN (1080p)
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://i.imgur.com/M8wbVYK.png" group-title="Weather",AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="ACLCornholeTV.us" tvg-logo="https://i.imgur.com/lBIq2ZD.png" group-title="Sports",ACL Cornhole TV (1080p)
+https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="AfroLandTV.us" tvg-logo="https://i.imgur.com/jvnkrEF.png" group-title="Entertainment",AfroLandTV (1080p)
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
