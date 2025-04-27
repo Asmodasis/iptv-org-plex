@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Xmltv-Merge V1.0.0">
+  <channel id="plex.tv.Gardening.with.Monty.Don.plex">
+    <display-name lang="en">Gardening with Monty Don</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca328416-4c99-41a3-81ae-48d5788edb14/Wurl_GWMD_FallbackPoster_2000x3000.jpg" />
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ca328416-4c99-41a3-81ae-48d5788edb14/Wurl_GWMD_FallbackPoster_2000x3000.jpg" />
+    <url>http://www.plex.tv</url>
+  </channel>
+</tv>
