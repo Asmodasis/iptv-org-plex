@@ -13,7 +13,7 @@
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Action.Hollywood.Movies.plex">Action Hollywood Movies</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.AfroLandTV.plex">AfroLandTV</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.AKC.tv.plex">AKC.tv</channel>
-  <!--<channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ALF.plex">ALF</channel>-->
+  <!--<channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ALF.plex">ALF</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Alien.Nation.by.DUST.plex">Alien Nation by DUST</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Aliwko.plex">Aliwko</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.All.Reality.WE.tv.plex">All Reality WE tv</channel>
@@ -591,5 +591,5 @@
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Yu-Gi-Oh!.plex">Yu-Gi-Oh!</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Z.Nation.plex">Z Nation</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.ZenLIFE.by.Stingray.plex">ZenLIFE by Stingray</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Zona.Investigación.plex">Zona Investigación</channel>
+  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Zona.Investigación.plex">Zona Investigación</channel>-->
 </channels>
