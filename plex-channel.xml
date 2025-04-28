@@ -225,8 +225,8 @@
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Galxy.TV.plex">Galxy TV</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Game.Show.Central.plex">Game Show Central</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.GameTV.Go.plex">GameTV Go</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Gardening.with.Monty.Don.plex">Gardening with Monty Don</channel>
-  <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Get.Factual.plex">Get.Factual</channel>
+  --><channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Gardening.with.Monty.Don.plex">Gardening with Monty Don</channel>
+  <!--<channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Get.Factual.plex">Get.Factual</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Ghost.Hunters.Channel.plex">Ghost Hunters Channel</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Ghosts.Are.Real.plex">Ghosts Are Real</channel>
   <channel site="epgshare01.online" lang="en" xmltv_id="" site_id="PLEX1#plex.tv.Glewed.TV.plex">Glewed TV</channel>
